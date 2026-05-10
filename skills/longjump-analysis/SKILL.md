@@ -1,4 +1,4 @@
-# @longjump-analysis — SKILL.md
+ @longjump-analysis — SKILL.md
 
 ## Назначение
 
